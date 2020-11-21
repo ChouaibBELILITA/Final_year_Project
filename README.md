@@ -4,3 +4,5 @@ This repository implements YOLOv3, VGG and Deep SORT in order to perfrom real-ti
  
 ![alt text](https://github.com/ChouaibBELILITA/Final_year_Project/blob/main/Presidents.gif)
 
+![alt text](https://github.com/ChouaibBELILITA/Final_year_Project/blob/main/Presidents1.gif)
+
